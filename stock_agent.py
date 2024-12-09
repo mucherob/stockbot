@@ -232,7 +232,7 @@ class ChatBot:
             except Exception as e:
               print(f"Error fetching/storing stock price: {e}")
 
-
+        # Specify what time to update below
         schedule.every().day.at("22:44").do(update_stock_news)
         print(f"Scheduled daily updates for {stock} at 22:44.")
         while True:
