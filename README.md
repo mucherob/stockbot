@@ -10,6 +10,8 @@ It's worth mentioning that the price prediction won't be 100% accurate because m
 However, the goal is to have the agent appreciate the relationship between sentiment and stock price and use that to suggest stocks or 
 even portfolios to look into further.
 
+### Furthermore, the agent itself still has a long way to go because there are methods that are currently within the script that have not been tested yet and improvements that can be made to make the agent whole.
+
 ## Installing
 
 The agent (in its current state) has been working best in Google Colab. This makes it easier to download the necessary packages and dependencies.
