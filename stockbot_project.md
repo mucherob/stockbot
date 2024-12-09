@@ -27,8 +27,11 @@ part is still in the works
 ## Workflow
 
 1. When the agent is initialized, it will ask the user to enter the stock ticker.
+   
 2 (a). It will use the ticker to search the News API for news and analyze the content that is returned.
-2 (b). At the same time, the stock will retrieve the price from yfinance.
+
+2 (b). At the same time, the stock will retrieve the price from finance.
+
 3. The agent returns a response that includes the stock price, the sentiment score, and whether it is positive,
 negative, or neutral, the price prediction (whether it will increase or decrease) and whether the user wants
 to track this stock
