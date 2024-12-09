@@ -40,7 +40,8 @@ information returned, and then add to that document daily.
 
 ## Conclusion
 
-I believe this project is far from over as there are aspects of it that are not working as they should. In
-addition, I have struggled to test if the agent will run daily according to the scheduler, so I cannot say
-if that feature works as intended or not.
+This project is far from over as there are aspects of it that are not working as they should. In
+addition, I have not been able to test if the agent will run daily according to the scheduler, so I cannot say
+if that feature works as intended or not. Therefore, the agent still needs revision, to say the least, but it
+was a good experience to learn how to build a basic agent.
 
